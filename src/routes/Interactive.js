@@ -13,7 +13,7 @@ import { ArtWork01Component } from "../components/artworks/ArtWork01Component";
 import BackHomeArrow from "../components/shared/BackHomeArrow";
 import { Greater } from "../assets/icon";
 import { ArtWork02Component } from "../components/artworks/ArtWork02Component";
-import { ArtWork03Component } from "../components/artworks/Artwork03Component";
+import ArtWork03Component from "../components/artworks/Artwork03Component";
 import { ArtWork04Component } from "../components/artworks/Artwork04Component";
 import { ArtWork05Component } from "../components/artworks/Artwork05Component";
 
